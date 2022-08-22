@@ -1,0 +1,15 @@
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/bin/Debug/net6.0/task2
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/bin/Debug/net6.0/task2.deps.json
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/bin/Debug/net6.0/task2.dll
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/bin/Debug/net6.0/task2.pdb
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.dll
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.pdb
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/tati/Desktop/GB/lesson1/Home_2/task2/obj/Debug/net6.0/ref/task2.dll
