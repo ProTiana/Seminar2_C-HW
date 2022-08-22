@@ -1,5 +1,9 @@
 ﻿//  принять 3х значное число и вернуть вторую его цифру
 
+/*вопрос по задаче: метод типа int всегда выводит значение типа int ?
+Если нужно вывести и значение - результат метода и результат проверки, какой тип метода лучше использовать?
+не смогла придумать, что вывести, в случаае, когда число не трехзначное. Или проверку нужно делать до метода?*/
+
 Console.WriteLine("Введите число");
 int n = Convert.ToInt32(Console.ReadLine());
 
@@ -13,18 +17,18 @@ int FindSecondNumber(int i)
     }
     else
     {
-        SecondNumber = i;
+        SecondNumber = 1000;
         return SecondNumber;
     }
 }
 int b = FindSecondNumber(n);
-if (b == n)
+if (b == 1000)
 {
     Console.WriteLine($"Число {n} не трехзначное. Введите трехзначное число.");
 }
 else
 {
-    Console.WriteLine(b);
+    Console.WriteLine( $"вторая цифра {b}");
 }
 
 
